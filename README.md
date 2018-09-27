@@ -12,5 +12,5 @@ vue.js+epub.js实现的简单阅读器
 - [ ] 加购
 
 ### 预览效果
-[e-book](http://maoyaoya.github.io/Ebook)<br>
+[e-book](http://maoyaoya.github.io/Ebook/index)<br>
 
