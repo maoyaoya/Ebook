@@ -10,3 +10,7 @@ vue.js+epub.js实现的简单阅读器
 - [x] 目录页的功能
 - [ ] 登录
 - [ ] 加购
+
+### 预览效果
+[e-book](http://maoyaoya.github.io/index.html)<br>
+
